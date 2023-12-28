@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @iamnashir
+- 👋 Hi, I’m Nashiruddin Ahmed
 - 👀 I’m interested in ...Data Science
 - 🌱 I’m currently learning ...Data Analysis using Power BI
+- 👀 I'm curently learning react.js
 - 💞️ I’m looking to collaborate on ...Data Analysis
 - 📫 How to reach me ...@iam_nashir
 
