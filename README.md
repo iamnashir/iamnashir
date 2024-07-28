@@ -4,7 +4,7 @@
   <img src="https://media.licdn.com/dms/image/D4D03AQHPqdWQBJy4rg/profile-displayphoto-shrink_800_800/0/1695797095767?e=1727913600&v=beta&t=7X1bnArC4KDgchgy1TmFyyevf9ltoA5pRt_YFIDBFSA" alt="Nashiruddin Ahmed" width="200" style="border-radius:50%;">
 </p>
 <p align="center">
-  <a href="https://linkedin.com/in/nashiruddin-ahmed"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nashiruddin-ahmed-92437a1bb/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/iamanshir"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
   <a href="https://iamnashir.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white"/></a>
   <a href="mailto:nashir8609@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
