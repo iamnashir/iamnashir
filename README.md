@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://your-image-host.com/professional-banner.png" alt="Professional Banner" width="100%">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Software Engineer Banner" width="100%">
 </div>
 
 # Nashiruddin Ahmed
